@@ -1,0 +1,33 @@
+﻿.umb-button__progress.-white {
+    border-color: hsla(0,0%,100%,.4) hsla(0,0%,100%,.4) hsla(0,0%,100%,.4) #284a41;
+}
+
+.btn-success {
+    background-color: #284a41;
+    border: 1px solid #284a41;
+}
+
+    .btn-success:hover,
+    .btn-success:focus,
+    .btn-success:active {
+        background-color: #fff;
+        color: #284a41;
+        border: 1px solid #284a41;
+    }
+
+        .btn-success:hover .caret,
+        .btn-success:focus .caret,
+        .btn-success:active .caret {
+            border-top-color: #284a41;
+            border-bottom-color: #284a41;
+        }
+
+.umb-button__error.-white, .umb-button__success.-white {
+    color: #284a41;
+}
+
+.alert-success {
+    background-color: #284a41;
+    border-color: transparent;
+    color: #fff;
+}

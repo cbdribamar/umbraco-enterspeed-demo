@@ -1,0 +1,11 @@
+﻿{
+  "css": [
+    "~/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/css/style.css",
+    "~/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/css/header.css",
+    "~/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/css/login.css",
+    "~/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/css/blockList.css"
+  ],
+  "javascript": [
+    "~/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/js/environment-indicator.js"
+  ]
+}

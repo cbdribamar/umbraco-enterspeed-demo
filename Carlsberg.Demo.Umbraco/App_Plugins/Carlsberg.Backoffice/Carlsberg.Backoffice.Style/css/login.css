@@ -1,0 +1,22 @@
+﻿.login-overlay .form {
+    background-color: rgba(255,255, 255,0.9)
+}
+
+.login-overlay__background-image {
+    opacity: .6;
+}
+
+.login-overlay__logo img {
+    content: url("/App_Plugins/Carlsberg.Backoffice/Carlsberg.Backoffice.Style/assets/img/logo4.png")
+}
+
+.login-overlay h1 {
+    text-indent: -9999px;
+}
+
+    .login-overlay h1:before {
+        text-indent: 0;
+        content: 'Lean Signup';
+        float: left;
+    }
+
